@@ -1,2 +1,3 @@
 # rest-project
-Projeto Maven de um servidor rest api com modulos
+Projeto Maven de um servidor rest Jersey com modulos
+
